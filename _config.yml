@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Woobin Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Reinforcement Learning / Deep Learning / Programming**"
+  bio              : "석사일기" # 강조는 ** **
   location         : "Seoul"
   email            :
   links:
