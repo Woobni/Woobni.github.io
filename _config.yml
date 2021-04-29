@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "석사일기" # 강조는 ** **
   location         : "Seoul"
-  email            :
+  email            : woobin0357@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
